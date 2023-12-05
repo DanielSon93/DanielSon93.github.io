@@ -28,7 +28,7 @@
     "periodFull": "2023. 10. 02  ~ 2023. 10. 13",
     "productionPurpose": "포트폴리오 제작을 위한 클론코딩",
     "explanation": "처음으로 React를 도입하여 제작한 사이트입니다.\n\n컴포넌트를 분리하여 재사용이 가능한 부분에 있어서는 최대한 재사용이 가능하도록 개발을 진행하였고, 상태값을 주고받고 처리하는 개념에 익숙해지기 위해노력하였습니다.\nReact 내장 hook들인 useEffect, useCallback, useState 등을 적재적소에 활용하려고 시도하였고, 이를 통해 코드를 더욱 효율적으로 작성하는 방법을 익혔습니다.\n\nHTTP 상태 코드에 기반한 자동 오류 처리를 지원하고, 더 편리한 방법으로 오류를 다룰 수 있는 axios 라이브러리 및 슬라이드로 많이 사용되는 swiper도 사용해보았습니다. ",
-    "link": "www.testLink.com",
+    "link": "https://github.com/DanielSon93/air",
     "languages": [
       "HTML",
       "PostCSS",
@@ -49,7 +49,7 @@
     "periodFull": "2023. 09. 23 ~ 2023. 09. 30",
     "productionPurpose": "포트폴리오 제작을 위한 클론코딩",
     "explanation": "프론트엔드로 발돋움 하기위한 첫 개인 프로젝트였습니다.\n\n메인 화면의 슬라이드를 제외하고는 모두 순수 HTML, CSS, JavaScript를 활용하여 개발을 진행하였습니다.\n\n이를 통해 프론트엔드의 기초를 이루는 핵심 언어에 대한 더 깊은 이해와 익숙함을 쌓아가려 노력했습니다.\n\n이 프로젝트를 진행하면서 프론트엔드의 CS 지식이 부족해 이벤트 버블링과 클로저 개념을 활용하지 못했던 점이 아쉬웠기에 다음 프로젝트에서는 이러한 개념들을 활용하여 더 나은 코드를 작성하고 싶습니다.",
-    "link": "www.testLink.com",
+    "link": "https://github.com/DanielSon93/hanwha",
     "languages": [
       "HTML",
       "CSS",
